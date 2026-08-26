@@ -69,7 +69,7 @@ AI Infra 团队常见的 Toil 来源还包括：手动处理 NCCL timeout 导致
 
 SRE 用指标把可靠性量化。常见三层体系：
 
-![图01-SLI-SLO-SLA层级](images/ch06/fig01-sli-slo-sla.png)
+![图01-SLI-SLO-SLA层级](../images/ch06/fig01-sli-slo-sla.png)
 *图 6-1：SLI → SLO → SLA 层级*
 
 **SLI（Service Level Indicator）**：服务等级指标，是实际测量值。例如过去 5 分钟推理服务请求成功率为 99.95%。
@@ -224,7 +224,7 @@ Prometheus 可以用 Burn Rate 告警规则：
 
 变更是生产环境不稳定的主要来源。SRE 对变更管理的要求是"可控可逆"，每次变更都要回答三个问题：谁批的、什么时候做的、出了事怎么回。
 
-![图02-变更管理三要素](images/ch06/fig02-change-management.png)
+![图02-变更管理三要素](../images/ch06/fig02-change-management.png)
 *图 6-2：变更管理三要素*
 
 三要素：

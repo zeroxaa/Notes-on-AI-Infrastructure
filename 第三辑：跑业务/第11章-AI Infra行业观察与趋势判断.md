@@ -209,7 +209,7 @@ H200 相比 H100，主要提升在于显存容量和带宽。141GB HBM3e 显存�
 
 本书从地皮开始，讲到模型服务结束。
 
-![图01-全书链路回顾](images/ch11/fig01-book-chain-review.png)
+![图01-全书链路回顾](../images/ch11/fig01-book-chain-review.png)
 *图 11-1：全书链路：从地皮到模型*
 
 第一辑讨论造场子：IDC 与智算中心建设、GPU 硬件选型、智算网络。
