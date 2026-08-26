@@ -32,7 +32,7 @@ Kubernetes 已经成为数据中心操作系统的事实标准。在智算中心
 
 原生调度器的基本假设是：单个 Pod 可以独立运行，调度一个是一个。这对无状态服务没问题，但对分布式训练不行。
 
-![图01-原生调度器死锁与GangScheduling](images/ch04/图01-原生调度器死锁与GangScheduling.png)
+![图01-原生调度器死锁与GangScheduling](images/ch04/fig01-scheduler-deadlock-gang.png)
 *图 4-1：原生调度器 7/8 死锁 vs Volcano Gang Scheduling*
 
 ### 部分调度死锁
@@ -63,7 +63,7 @@ Kubernetes 已经成为数据中心操作系统的事实标准。在智算中心
 
 Volcano 是面向 Kubernetes 的批处理调度系统，专为计算密集型任务设计。它通过自定义调度器和 CRD，扩展了 Kubernetes 的调度语义。
 
-![图02-Volcano组件架构](images/ch04/图02-Volcano组件架构.png)
+![图02-Volcano组件架构](images/ch04/fig02-volcano-architecture.png)
 *图 4-2：Volcano 在 Kubernetes 中的组件架构*
 
 Volcano 的核心组件：

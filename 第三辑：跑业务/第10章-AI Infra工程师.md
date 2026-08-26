@@ -48,7 +48,7 @@ AI Infra 工程师的工作可以分为几个层面。
 
 AI Infra 工程师需要的能力跨度很大。
 
-![图01-AIInfra工程师能力模型](images/ch10/图01-AIInfra工程师能力模型.png)
+![图01-AIInfra工程师能力模型](images/ch10/fig01-ai-infra-competency.png)
 *图 10-1：AI Infra 工程师能力模型*
 
 **硬件和网络基础**：理解 GPU 架构、PCIe、NVLink、RDMA/RoCEv2、InfiniBand、交换机基础。能读懂 nvidia-smi、ibstat、ethtool 的输出。
@@ -273,7 +273,7 @@ AI Infra 工程师需要熟练使用几类工具。
 
 AI Infra 工程师是整条链路的连接者。
 
-![图02-AIInfra全链路角色](images/ch10/图02-AIInfra全链路角色.png)
+![图02-AIInfra全链路角色](images/ch10/fig02-ai-infra-roles.png)
 *图 10-2：AI Infra 工程师：链路的连接者*
 
 他懂硬件，能和供应商、机房工程师对话；他懂网络，能和网络团队协作；他懂平台，能和开发团队一起建设系统；他懂训练，能和算法团队一起调优；他懂推理，能和业务团队一起优化成本和体验。
