@@ -64,7 +64,7 @@ RDMA 的零拷贝是彻底的：数据路径上只有一次 NIC 直接读写应�
 
 RDMA（Remote Direct Memory Access，远程直接内存访问）是一种允许一台机器直接访问另一台机器内存的技术，无需目标机器的 CPU 参与。
 
-![图01-TCP与RDMA数据路径对比](图片/第03章/图01-TCP与RDMA数据路径对比.png)
+![图01-TCP与RDMA数据路径对比](images/ch03/图01-TCP与RDMA数据路径对比.png)
 *图 3-1：TCP/IP 与 RDMA 数据路径对比*
 
 想象两台服务器 A 和 B。A 上的应用程序想读取 B 上某块内存的数据。在传统 TCP/IP 方式下，B 的 CPU 要先从网卡接收数据包，经过协议栈处理，再把数据从内核拷贝到用户态，最后交给应用程序。RDMA 方式下，B 的网卡直接把数据写入 B 的应用程序内存，B 的 CPU 整个过程都不参与。
@@ -140,7 +140,7 @@ InfiniBand 的交换机被称为"傻瓜交换机"，只查 LFT（Linear Forwardi
 
 RoCEv2（RDMA over Converged Ethernet v2）是把 InfiniBand 的传输层协议运行在标准以太网和 IP 网络上。它允许 RDMA 技术复用现有的以太网基础设施。
 
-![图02-RoCEv2协议栈](图片/第03章/图02-RoCEv2协议栈.png)
+![图02-RoCEv2协议栈](images/ch03/图02-RoCEv2协议栈.png)
 *图 3-2：RoCEv2 协议栈*
 
 RoCEv2 的协议栈：
