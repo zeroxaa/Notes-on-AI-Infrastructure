@@ -1,3 +1,9 @@
+<!-- bilingual-navigation:start -->
+[中文原文](%E7%AC%AC06%E7%AB%A0-SRE%E4%B8%8E%E8%BF%90%E7%BB%B4%E5%8F%98%E6%9B%B4%E8%A7%84%E8%8C%83.md) | [English](../en/part-2-platforms/ch06-sre-change-management.md) | [目录](../README.md) | [上一页](%E7%AC%AC05%E7%AB%A0-yunyun%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91.md) | [下一页](../%E7%AC%AC%E4%B8%89%E8%BE%91%EF%BC%9A%E8%B7%91%E4%B8%9A%E5%8A%A1/%E7%AC%AC%E4%B8%89%E8%BE%91%E5%89%8D%E8%A8%80.md)
+
+本版仅为中文正文添加双语导航；英文译本及维护说明见 [TRANSLATIONS.md](../TRANSLATIONS.md)。
+<!-- bilingual-navigation:end -->
+
 # 第 6 章 SRE 与运维变更规范
 
 ## 引子：系统不会因为有人值班而变可靠

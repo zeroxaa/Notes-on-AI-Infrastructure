@@ -1,3 +1,9 @@
+<!-- bilingual-navigation:start -->
+[中文原文](%E7%AC%AC10%E7%AB%A0-AI%20Infra%E5%B7%A5%E7%A8%8B%E5%B8%88.md) | [English](../en/part-3-workloads/ch10-ai-infrastructure-engineer.md) | [目录](../README.md) | [上一页](%E7%AC%AC09%E7%AB%A0-%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E%E9%83%A8%E7%BD%B2%E4%B8%8E%E5%8E%8B%E6%B5%8B.md) | [下一页](%E7%AC%AC11%E7%AB%A0-AI%20Infra%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F%E4%B8%8E%E8%B6%8B%E5%8A%BF%E5%88%A4%E6%96%AD.md)
+
+本版仅为中文正文添加双语导航；英文译本及维护说明见 [TRANSLATIONS.md](../TRANSLATIONS.md)。
+<!-- bilingual-navigation:end -->
+
 # 第 10 章 AI Infra 工程师
 
 ## 引子：一个横跨地皮和模型的人

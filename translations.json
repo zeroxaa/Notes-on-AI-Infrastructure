@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "original_repository": "https://gitee.com/honglei_wang/Notes-on-AI-Infrastructure",
+  "initial_source_commit": "f78f73a7ebb4b8c513f49788f8ce6b8ba762b002",
+  "source_language": "zh-CN",
+  "translation_language": "en",
+  "pages": [
+    {
+      "source": "序言.md",
+      "translation": "en/preface.md",
+      "source_sha256": "72e4cd8ae1d1bda7bec62ed92606231aafd750bcafc61ad6ff85197804f306aa",
+      "assets": {}
+    },
+    {
+      "source": "第一辑：造场子/第一辑前言.md",
+      "translation": "en/part-1-infrastructure/introduction.md",
+      "source_sha256": "d75e326e6f709ace843ff977baf08fe8b4b4fbef297be5a859a79cdb16af371a",
+      "assets": {}
+    },
+    {
+      "source": "第一辑：造场子/第01章-IDC与智算中心建设.md",
+      "translation": "en/part-1-infrastructure/ch01-data-center-construction.md",
+      "source_sha256": "2d21a5f2f7b1c2fd867b2b5877c577112347e4ef343198d2fded5b440f505ffd",
+      "assets": {
+        "images/ch01/fig02-h200-node-power.png": "392626137eae0e534f86872853e06ac1867113fe3e8d2d2ac4183f62beaf2dc6",
+        "images/ch01/fig01-cpu-gpu-cabinet-power.png": "e7c71acacaa1cfd43a75d65cf3968d419f0c0f5fa4d90cc5f360a969d5dd3b78",
+        "images/ch01/fig03-air-liquid-cooling.png": "152d180ff12516ef159bfb3bccd5cd4d893e5543bc52e0d1efa02646b6deaafa",
+        "images/ch01/fig05-gpu-server-network.png": "1c9fa01cf98ccd8d9e083521857eeefc65f4b196d382109613f60724ea826f23",
+        "images/ch01/fig04-aidc-construction-flow.png": "8eac303ae3db9f7a9b378e1f273ee5824168c21c64f0dfca5eea243cb1d5051b"
+      }
+    },
+    {
+      "source": "第一辑：造场子/第02章-GPU集群硬件选型与交付.md",
+      "translation": "en/part-1-infrastructure/ch02-gpu-selection-and-delivery.md",
+      "source_sha256": "9a6ac9eeb2f660d838e625e333c3b9bfda896510f45865da931627465ecfeff1",
+      "assets": {
+        "images/ch02/fig01-gpu-selection.png": "6535ec85cd9e99e6acc1b811c579917ee1da7cc18c386f1608cf62ef8005a130",
+        "images/ch02/fig02-gpu-delivery-acceptance.png": "090df09a765be24e842cdd064aedcd2ffcf35599e0eb0e05aa56aebeed006ecf"
+      }
+    },
+    {
+      "source": "第一辑：造场子/第03章-智算网络与RDMA-RoCEv2.md",
+      "translation": "en/part-1-infrastructure/ch03-networking-rdma-rocev2.md",
+      "source_sha256": "c9f1d98d9eaaded9ee9faf39e479f634f1e94b06c7d8e840e491d9d84d3f2135",
+      "assets": {
+        "images/ch03/fig01-tcp-rdma-path.png": "ac54429f6aa2948da4110d6d5512cbee26887bd7416447881fe411a55e2bfa9b",
+        "images/ch03/fig02-rocev2-stack.png": "c1be233646e90664658a8fe645cb43ca77b31e21c5b1086a814ae1796f4f538b"
+      }
+    },
+    {
+      "source": "第二辑：搭平台/第二辑前言.md",
+      "translation": "en/part-2-platforms/introduction.md",
+      "source_sha256": "1f165eef7ff683be6ad145f062aa0c847c99811923e420a2d59e18a2ce014d74",
+      "assets": {}
+    },
+    {
+      "source": "第二辑：搭平台/第04章-Kubernetes与Volcano调度平台.md",
+      "translation": "en/part-2-platforms/ch04-kubernetes-volcano.md",
+      "source_sha256": "6c077a260b2b9a6d0d953b2c27c9ab01ab0b41763f4ccb4a718f07cfb6ea68bd",
+      "assets": {
+        "images/ch04/fig01-scheduler-deadlock-gang.png": "9b6e4563acc71bb093e890a984ee75649d6afe6436a922e6d718083eab427387",
+        "images/ch04/fig02-volcano-architecture.png": "35218c203978c30d4431950f3c46f31f95c749bf3130f87cf1f5c1034cddf513"
+      }
+    },
+    {
+      "source": "第二辑：搭平台/第05章-yunyun平台开发.md",
+      "translation": "en/part-2-platforms/ch05-yunyun-platform.md",
+      "source_sha256": "a09d72bedb49feef3073c3797b24ce263b87f4b530b10b9e7dd638e8644d6e08",
+      "assets": {
+        "images/ch05/fig01-training-task-trinity.png": "6c1f543411c51ec56e1fb27e92e62e880271fec22bf6644d59de9270f64e090d",
+        "images/ch05/fig02-tenant-isolation.png": "bd2bccab230f14dbfa89ee0300fae7c62ba75443fadba41103bc5a808f46ee08"
+      }
+    },
+    {
+      "source": "第二辑：搭平台/第06章-SRE与运维变更规范.md",
+      "translation": "en/part-2-platforms/ch06-sre-change-management.md",
+      "source_sha256": "2439fbcc0e4cb7fde1aaee677d246f429db8d56842c94e9ee180513741b180b9",
+      "assets": {
+        "images/ch06/fig01-sli-slo-sla.png": "50793a928b8a714ad3566aa13526424cd533f16fd9f1d64c6987e7a633595e06",
+        "images/ch06/fig02-change-management.png": "edd07f634cc7ce1a9f2611e585c4596be353696de405e648bf7d6cb37347b689"
+      }
+    },
+    {
+      "source": "第三辑：跑业务/第三辑前言.md",
+      "translation": "en/part-3-workloads/introduction.md",
+      "source_sha256": "0e8e333a645dac9e179b9f06d2a0d79329a882d0b56721882815509ace3d0c74",
+      "assets": {}
+    },
+    {
+      "source": "第三辑：跑业务/第07章-分布式训练通信.md",
+      "translation": "en/part-3-workloads/ch07-distributed-training-communication.md",
+      "source_sha256": "0e142857159d782f44f2a1e82772fef95bdc33f579bb163af62ffdb5f5fc08ab",
+      "assets": {
+        "images/ch07/fig01-ring-allreduce.png": "ac7e6458189efade1864ab95e46cc97222779e07a724af1d9d6c7675a5aaec91",
+        "images/ch07/fig02-parallel-communication.png": "3c21ddae2a2290cfb73b237a4e28692884a543f0fe3a51891568b17de6856ff3"
+      }
+    },
+    {
+      "source": "第三辑：跑业务/第08章-训练任务调优与排障.md",
+      "translation": "en/part-3-workloads/ch08-training-tuning-troubleshooting.md",
+      "source_sha256": "556e8ced7b7a8364c6c36508c674003705bc273590969788d00e3e34ee10963a",
+      "assets": {
+        "images/ch08/fig01-five-layer-troubleshooting.png": "d5ceb1977a724812a7e721a8316f3d3a98a085f9316423ddf68ccda53dd781a7",
+        "images/ch08/fig02-nccl-timeout.png": "153f2947ba10371e9c48d31f48590f6e939934cd0e2dc5607f7f63da3d36f9d6"
+      }
+    },
+    {
+      "source": "第三辑：跑业务/第09章-推理引擎部署与压测.md",
+      "translation": "en/part-3-workloads/ch09-inference-deployment-benchmarking.md",
+      "source_sha256": "acf175e6cf9f9d7adf378717c3edab1d1a7c62862685a3176fbccd8335f5eac9",
+      "assets": {
+        "images/ch09/fig01-prefill-decode.png": "9e62334e59393b026db8bc7deeb08063b910cd7638fcd7f7c52416820ca25f07",
+        "images/ch09/fig02-paged-attention.png": "c153d80113631f2f3e78d511a3e5dbe0064425cafd54bc29209bc6e98a0dc659"
+      }
+    },
+    {
+      "source": "第三辑：跑业务/第10章-AI Infra工程师.md",
+      "translation": "en/part-3-workloads/ch10-ai-infrastructure-engineer.md",
+      "source_sha256": "7feaf41399f922d056c7dacdbd0d366a95d7a3775f8407144d765d4394e32e7d",
+      "assets": {
+        "images/ch10/fig01-ai-infra-competency.png": "99b97ab39dfc2ec1d3241a23c69d2912b0bd9688fe03ec8957bc5cb787e844d0",
+        "images/ch10/fig02-ai-infra-roles.png": "b815f05352496d1d409389891be26382e6b1b40fa689c010c79949dce36929b9"
+      }
+    },
+    {
+      "source": "第三辑：跑业务/第11章-AI Infra行业观察与趋势判断.md",
+      "translation": "en/part-3-workloads/ch11-industry-observations.md",
+      "source_sha256": "51d74cff12536fa27e8065042a82d14b06c2e26ce4017b54b4f9f31bc7a4f6ee",
+      "assets": {
+        "images/ch11/fig01-book-chain-review.png": "049de743b298343d07c6bbb98291eaf22e269821978905d0c3190c13c06d03d8"
+      }
+    },
+    {
+      "source": "后记.md",
+      "translation": "en/afterword.md",
+      "source_sha256": "557fe605b3e02f88444393b358b75e78e3f5caccd80a2467a9f3291305b2f32f",
+      "assets": {}
+    }
+  ]
+}

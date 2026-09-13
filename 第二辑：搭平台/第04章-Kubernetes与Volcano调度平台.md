@@ -1,3 +1,9 @@
+<!-- bilingual-navigation:start -->
+[中文原文](%E7%AC%AC04%E7%AB%A0-Kubernetes%E4%B8%8EVolcano%E8%B0%83%E5%BA%A6%E5%B9%B3%E5%8F%B0.md) | [English](../en/part-2-platforms/ch04-kubernetes-volcano.md) | [目录](../README.md) | [上一页](%E7%AC%AC%E4%BA%8C%E8%BE%91%E5%89%8D%E8%A8%80.md) | [下一页](%E7%AC%AC05%E7%AB%A0-yunyun%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91.md)
+
+本版仅为中文正文添加双语导航；英文译本及维护说明见 [TRANSLATIONS.md](../TRANSLATIONS.md)。
+<!-- bilingual-navigation:end -->
+
 # 第 4 章 Kubernetes 与 Volcano 调度平台
 
 ## 引子：微服务调度器跑训练任务

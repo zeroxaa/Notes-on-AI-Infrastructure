@@ -1,3 +1,9 @@
+<!-- bilingual-navigation:start -->
+[中文原文](%E7%AC%AC05%E7%AB%A0-yunyun%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91.md) | [English](../en/part-2-platforms/ch05-yunyun-platform.md) | [目录](../README.md) | [上一页](%E7%AC%AC04%E7%AB%A0-Kubernetes%E4%B8%8EVolcano%E8%B0%83%E5%BA%A6%E5%B9%B3%E5%8F%B0.md) | [下一页](%E7%AC%AC06%E7%AB%A0-SRE%E4%B8%8E%E8%BF%90%E7%BB%B4%E5%8F%98%E6%9B%B4%E8%A7%84%E8%8C%83.md)
+
+本版仅为中文正文添加双语导航；英文译本及维护说明见 [TRANSLATIONS.md](../TRANSLATIONS.md)。
+<!-- bilingual-navigation:end -->
+
 # 第 5 章 yunyun 平台开发：从需求到架构
 
 ## 引子：平台是基础设施的产品化

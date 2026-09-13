@@ -1,3 +1,9 @@
+<!-- bilingual-navigation:start -->
+[中文原文](%E7%AC%AC03%E7%AB%A0-%E6%99%BA%E7%AE%97%E7%BD%91%E7%BB%9C%E4%B8%8ERDMA-RoCEv2.md) | [English](../en/part-1-infrastructure/ch03-networking-rdma-rocev2.md) | [目录](../README.md) | [上一页](%E7%AC%AC02%E7%AB%A0-GPU%E9%9B%86%E7%BE%A4%E7%A1%AC%E4%BB%B6%E9%80%89%E5%9E%8B%E4%B8%8E%E4%BA%A4%E4%BB%98.md) | [下一页](../%E7%AC%AC%E4%BA%8C%E8%BE%91%EF%BC%9A%E6%90%AD%E5%B9%B3%E5%8F%B0/%E7%AC%AC%E4%BA%8C%E8%BE%91%E5%89%8D%E8%A8%80.md)
+
+本版仅为中文正文添加双语导航；英文译本及维护说明见 [TRANSLATIONS.md](../TRANSLATIONS.md)。
+<!-- bilingual-navigation:end -->
+
 # 第 3 章 智算网络与 RDMA/RoCEv2
 
 ## 引子：网络不是水管

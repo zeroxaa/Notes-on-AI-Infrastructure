@@ -1,3 +1,9 @@
+<!-- bilingual-navigation:start -->
+[中文原文](%E7%AC%AC01%E7%AB%A0-IDC%E4%B8%8E%E6%99%BA%E7%AE%97%E4%B8%AD%E5%BF%83%E5%BB%BA%E8%AE%BE.md) | [English](../en/part-1-infrastructure/ch01-data-center-construction.md) | [目录](../README.md) | [上一页](%E7%AC%AC%E4%B8%80%E8%BE%91%E5%89%8D%E8%A8%80.md) | [下一页](%E7%AC%AC02%E7%AB%A0-GPU%E9%9B%86%E7%BE%A4%E7%A1%AC%E4%BB%B6%E9%80%89%E5%9E%8B%E4%B8%8E%E4%BA%A4%E4%BB%98.md)
+
+本版仅为中文正文添加双语导航；英文译本及维护说明见 [TRANSLATIONS.md](../TRANSLATIONS.md)。
+<!-- bilingual-navigation:end -->
+
 # 第 1 章 IDC 与智算中心建设
 
 ## 引子：一个烫手的光模块
